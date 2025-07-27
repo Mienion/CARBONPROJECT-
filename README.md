@@ -10,6 +10,7 @@ Our dataset is compiled from publicly available data from nature.com and encompa
 
 # **Data Structure**
 The dataset consists of 4 tables containing information regarding carbon emissions generated during the production of goods.
+
 ![structure](https://raw.githubusercontent.com/Mienion/CARBONPROJECT-/main/Database%20diagram.png)
 
 # **Data Analysis Overview**
